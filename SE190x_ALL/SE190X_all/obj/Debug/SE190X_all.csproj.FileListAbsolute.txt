@@ -1,0 +1,32 @@
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\AutoTest\bin\Debug\SE190X_all.exe
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\AutoTest\bin\Debug\SE190X_all.pdb
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\AutoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\AutoTest\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\AutoTest\obj\Debug\SE190X.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\AutoTest\obj\Debug\SE190X_all.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\AutoTest\obj\Debug\SE190X_all.exe
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\AutoTest\obj\Debug\SE190X_all.pdb
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\bin\Debug\SE190X_all.exe
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\bin\Debug\SE190X_all.pdb
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\ResolveAssemblyReference.cache
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\SE190X_all.csproj.ResolveComReference.cache
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\SE190X.InputBox.resources
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\SE190X.Properties.Resources.resources
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\SE190X_all.csproj.GenerateResource.Cache
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\SE190X_all.exe
+D:\公司產品\ATC\產測程式\C#改寫\SE190x_ALL\SE190X_all\obj\Debug\SE190X_all.pdb
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\bin\Debug\SE190X_All.exe
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\bin\Debug\SE190X_All.pdb
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\SE190X_all.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\SE190X.InputBox.resources
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\SE190X.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\SE190X_all.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\SE190X_All.exe
+C:\Documents and Settings\Administrator\桌面\SE190x_ALL\SE190X_all\obj\Debug\SE190X_All.pdb

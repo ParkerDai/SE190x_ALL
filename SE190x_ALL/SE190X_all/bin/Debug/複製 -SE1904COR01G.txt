@@ -1,0 +1,10 @@
+SE1904 10.0.50.100 admin
+Stop when fail
+Console-DUT show
+Console-EUT
+CheckModel
+Rs485 4
+RS232 4
+RTC
+GETRTC 45
+Restart none 45

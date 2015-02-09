@@ -1,0 +1,17 @@
+SE1902 10.0.50.100 admin
+Stop when fail
+Console-DUT show
+Console-EUT
+LAN
+//sleep 30 s
+LoadTools
+//COM 2 rs232
+//COMtoCOM 1-2 rs232 5 s
+Rs485 2
+RS232 2
+CANtoCAN 1-2 5 s
+Restore
+GPS
+DO 1
+Delete
+//Restart none 30

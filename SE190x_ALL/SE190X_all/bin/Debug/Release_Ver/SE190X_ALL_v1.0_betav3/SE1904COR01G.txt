@@ -1,0 +1,27 @@
+SE1904 10.0.50.100 admin
+Stop when fail
+Console-DUT show
+Console-EUT
+LAN
+Telnet
+//sleep 30 s
+LoadTools
+//COM 4 rs232
+//COMtoCOM 1-4 rs485 10 s
+//COMtoCOM 1-4 rs232 10 s
+Rs485 4
+RS232 4
+CANtoCAN 1-2 5 s
+Buzzer
+Restore
+GPS
+DO 1
+SD
+//Watchdog
+GPRS
+Delete
+RTC
+//Restart none 45
+getrtc 45
+FactoryFiles
+gprsStatus dis

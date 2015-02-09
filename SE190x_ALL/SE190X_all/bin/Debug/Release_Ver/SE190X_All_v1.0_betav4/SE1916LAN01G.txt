@@ -1,0 +1,7 @@
+SE1904 10.0.50.100 admin
+Stop when fail
+Console-DUT show
+LAN
+//sleep 30 s
+GPS
+DOtoDI 1-2
